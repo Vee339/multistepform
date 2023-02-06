@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/multistepform/static/css/main.e54becfe.css",
+    "main.js": "/multistepform/static/js/main.55b8bb51.js",
+    "static/media/Ubuntu-Regular.ttf": "/multistepform/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/multistepform/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/multistepform/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/bg-sidebar-desktop.svg": "/multistepform/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/bg-sidebar-mobile.svg": "/multistepform/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
+    "index.html": "/multistepform/index.html",
+    "main.e54becfe.css.map": "/multistepform/static/css/main.e54becfe.css.map",
+    "main.55b8bb51.js.map": "/multistepform/static/js/main.55b8bb51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54becfe.css",
+    "static/js/main.55b8bb51.js"
+  ]
+}
